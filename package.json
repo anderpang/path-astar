@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "anderpang@foxmail.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A*(a-star) pathfinding in TypeScript",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.MD"
+  ],
+  "keywords": [
+    "A star",
+    "path",
+    "typescript"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "path-astar",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "index.d.ts",
+  "version": "1.0.2"
+}
